@@ -1,4 +1,5 @@
 # MCM2014备战指南
+本文在线浏览（带有下载超链接）地址 https://github.com/baizhima/RUCUCDMCM
 
 ##### 成员：郭安琪(writer)、王绍阳(omnipotent)、卢山(programmer)
 
